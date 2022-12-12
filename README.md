@@ -18,4 +18,4 @@ Back:
 
 ## Launch
 
-https://pokedex-nine-pi.vercel.app/
+https://vercel-mymovizpart5-frontend-xfun-e05wo9tki-hugovalpo.vercel.app
