@@ -16,6 +16,31 @@ Back:
 - Express
 - JavaScript
 
+Front:
+
++ Next.js
++ React
++ JavaScript
+
+Back:
+
++ Express
++ JavaScript
+
+## Goals
+
+Frontend:
+
++ States
++ Hooks
++ Inverse dataflow
++ Components
++ Props
+
+Backend:
+
++ Api's 
+
 ## Launch
 
 https://vercel-mymovizpart5-frontend-xfun-e05wo9tki-hugovalpo.vercel.app
